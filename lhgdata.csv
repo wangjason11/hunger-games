@@ -1,0 +1,49 @@
+id,name,year,district,nickname,var,fitness,intellect,xfactor,score,coordx,coordy
+1,james hom,2010,pi,360,jamho,8,6,5.5,19.5,0,0
+2,jake lin,2011,rho,flaccid,jakel,5,7,6,18,0,0
+3,kenn miller,2011,rho,free willy,kennm,7.5,6,6,19.5,0,0
+4,kel qi,2011,sigma,fobstradaumus,kelqi,2.5,7.5,7.5,17.5,0,0
+5,tyler qiu,2011,sigma,talk dirty to me,tylrq,7,8,6.5,21.5,0,0
+6,dan he,2011,tau,make it stop,danhe,2,7.5,1.5,11,0,0
+7,dan lee,2012,upsilon,flo,danle,5,2.5,4.5,12,0,0
+8,eugene liu,2012,upsilon,sizzler,eugel,4,4,9,17,0,0
+9,vu ngyuen,2011,upsilon,biv,vungn,7,6,5,18,0,0
+10,maxell tang,2010,upsilon,balboa,maxtg,4,7.5,5.5,17,0,0
+11,will zeng,2011,upsilon,old yeller,willz,4.5,6.5,5,16,0,0
+12,john zhang,2011,upsilon,dj elmo,johnz,2.5,5,4.5,12,0,0
+13,george gulotta,2011,phi,marco polo,geogu,3.5,4,2,9.5,0,0
+14,danny yu,2012,phi,astroboy,danyu,4.5,6.5,4.5,15.5,0,0
+15,george liu,2013,chi,muse,geolu,3,3.5,4,10.5,0,0
+16,yiteng liu,2013,chi,tankboy,yitel,5.5,6.5,6,18,0,0
+17,quoc pham,2011,chi,bloc,quocp,7,4.5,5.5,17,0,0
+18,nelson zhu,2013,chi,private pyle,nelsz,6.5,6.5,7,20,0,0
+19,paul park,2013,aa,abra,paulp,6,5.5,4,15.5,0,0
+20,kelvin si,2012,aa,noisy cricket,kelvs,6,5,6.5,17.5,0,0
+21,steve tang,2012,aa,stepford,stevt,7.5,7,6,20.5,0,0
+22,leland zhi,2012,aa,mr. anderson,lelnz,5,5,6.5,16.5,0,0
+23,matt lee,2014,ab,blackjack,fattl,3,3,4,10,0,0
+24,daniel liang,2013,ab,minderbinder,danlg,3.5,8,7,18.5,0,0
+25,andy liou,2014,ab,po,andyl,6.5,3,2,11.5,0,0
+26,rhokook song,2014,ab,ambadassador,rhoso,5,7,5,17,0,0
+27,adam sun,2014,ab,double rainbow,adams,5.5,6,6,17.5,0,0
+28,jason wang,2013,ab,the karate kid,jaswa,5.5,6.5,5.5,17.5,0,0
+29,xiafei zhang,2014,ab,slumdog,xiafz,6,5.5,6.5,18,0,0
+30,seungwoo kim,2013,ag,bumblebee,sunwk,5.5,5,4,14.5,0,0
+31,eungbum lee,2014,ag,bff,eunbl,6.5,4,8.5,19,0,0
+32,matt lee,2014,ag,rollout,mattl,4.5,3.5,4,12,0,0
+33,larry tang,2014,ag,c3po,larrt,2.5,6.5,5.5,14.5,0,0
+34,taekwan yoon,2016,ag,kgb,taeky,4.5,5.5,4.5,14.5,0,0
+35,brian chen,2014,ad,rage quit,briac,8,5,8,21,0,0
+36,akash goyal,2015,ad,taj macaq,akago,2,2.5,5,9.5,0,0
+37,andrew kim,2015,ad,ditto,andki,5.5,4.5,5,15,0,0
+38,hanzhi wang,2015,ad,playboi,hanzw,3.5,7,6.5,17,0,0
+39,daryl xu,2015,ad,and1,daryx,6.5,6,7.5,20,0,0
+40,paul chen,2015,ae,deadmouse,paulc,3,4.5,4.5,12,0,0
+41,michael eng,2015,ae,panic,mikee,5,4.5,5.5,15,0,0
+42,guy puymartin,2013,ae,ratatouille,guypy,8.5,5.5,1.5,15.5,0,0
+43,lumin chen,2016,az,trill,lumic,4,5.5,7,16.5,0,0
+44,jason kang,2016,az,medic,jaska,6,4,3.5,13.5,0,0
+45,andrew kang,2016,ah,braveheart,andka,5.5,3.5,3.5,12.5,0,0
+46,arthur li,2016,ah,chameleon,arthl,4.5,4,2.5,11,0,0
+47,james park,2016,ah,nightcrawler,jampk,4,3.5,3.5,11,0,0
+48,vincent shieh,2016,ah,zorro,vinsh,3.5,5,2.5,11,0,0
